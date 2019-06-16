@@ -1,0 +1,7 @@
+[package]
+name = "prime_factorisation"
+version = "0.1.0"
+authors = ["josephharrison"]
+edition = "2018"
+
+[dependencies]
