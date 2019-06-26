@@ -24,7 +24,7 @@ fn bubble_sort(mut xs: Vec<i32>) -> Vec<i32> {
             }
             
             print!("\n");
-            for j in 0..i - 1 {
+            for _ in 0..i - 1 {
                 
                 print!("  ");
             }

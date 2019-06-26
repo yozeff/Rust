@@ -1,1 +1,1 @@
-/Users/josephharrison/cs/rust/bubble_sort/target/debug/bubble_sort.dSYM: /Users/josephharrison/cs/rust/bubble_sort/src/main.rs /Users/josephharrison/cs/rust/bubble_sort/src/quick_sort.rs
+/Users/josephharrison/cs/rust/sorting/target/debug/bubble_sort.dSYM: /Users/josephharrison/cs/rust/sorting/src/main.rs /Users/josephharrison/cs/rust/sorting/src/quick_sort.rs
